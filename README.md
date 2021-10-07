@@ -1,2 +1,2 @@
 # CalculatorApp
-Creación de una calculadora  usando las notación infija de kotlin para hacer más legible en código.
+Creación de una calculadora básica usando las notación infija de kotlin para hacer más legible en código.
